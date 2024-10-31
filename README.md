@@ -1,2 +1,0 @@
-# GMS
-for GMS work
