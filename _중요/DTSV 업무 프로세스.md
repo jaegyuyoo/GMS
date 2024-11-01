@@ -87,3 +87,4 @@
 	 Introduction of DE-61 -> DE-61 의미??
 	 Structur 는언제? beat 테스트하고 남는시간? 
 	 (DTSV 팀장) 채팅커뮤니케이션 hangout, line, kakao
+	 DTSV 테스트벤치에 대한 가이드는없는가? Ruetz(루츠), Umlaut(움라우트)

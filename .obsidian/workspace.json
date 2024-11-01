@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무/Octane_Brian.md",
+                "file": "회의록/241104 BMW 주간회의.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Octane_Brian"
+              "title": "241104 BMW 주간회의"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "업무/Octane_Brian.md",
+                "file": "업무/Octane_Brian_241031.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Octane_Brian의 백링크"
+              "title": "Octane_Brian_241031의 백링크"
             }
           },
           {
@@ -162,15 +162,23 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f6af999d659ecd90",
+  "active": "088fb24382301204",
   "lastOpenFiles": [
-    "README.md",
-    "업무/Octane_Brian.md",
-    "업무/DTSV 업무 프로세스.md",
-    "업무/Cluster.md",
+    "Cluster_SP21/BMT(Bedien Modul Türe).md",
+    "회의록/241104 BMW 주간회의.md",
+    "Cluster_SP21/Overview.md",
+    "Cluster_SP21/FZD (Roof Function Centre).md",
+    "Cluster_SP21/Audiotainment.md",
+    "Cluster_SP21/ZBE(MFL).md",
+    "Cluster_SP21/RAM_Booster.md",
+    "Cluster_SP21/HUD.md",
+    "_중요/용어정리.md",
+    "Cluster_SP21",
     "업무/BMW_License.md",
-    "업무/용어정리.md",
-    "무제 폴더",
+    "_중요/DTSV 업무 프로세스.md",
+    "업무/Octane_Brian_241031.md",
+    "_중요",
+    "README.md",
     "2024-10-31.md",
     "무제 파일.canvas",
     "2024-10-30.md",
